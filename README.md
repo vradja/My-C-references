@@ -1,2 +1,2 @@
-# My-C++-references
+# My C++ references
 Have important links for C++
